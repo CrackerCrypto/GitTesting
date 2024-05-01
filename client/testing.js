@@ -3,3 +3,5 @@ const testFunc = () => {
 }
 
 testFunc()
+
+console.log("Checkouting some issues")
