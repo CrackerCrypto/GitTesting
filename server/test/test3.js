@@ -11,3 +11,4 @@ function productFunc(a, b) {
 function divideFunc(a, b) {
   return a / b
 }
+console.log(minusFunction(1, 2))
