@@ -5,3 +5,5 @@ const testFunc = () => {
 testFunc()
 
 console.log("Checkouting some issues")
+
+console.log(1+2)
